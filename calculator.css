@@ -1,3 +1,5 @@
+/*  Name = Maurya Shubham Roll No = 33 Calculator.css   */
+
 *
 {
     box-sizing: border-box;
@@ -32,6 +34,7 @@ body {
   border-radius: 20px;
 
 }
+
 
 .previous {
   width: 100%;
@@ -109,4 +112,3 @@ table {
 .clear:focus {
   outline: 0;
 }
-/**/
